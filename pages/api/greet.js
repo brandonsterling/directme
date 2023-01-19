@@ -1,4 +1,3 @@
-import fetch from "node-fetch";
 import { App } from "@slack/bolt";
 
 export default async function handler(request, response) {
